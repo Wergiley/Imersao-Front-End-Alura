@@ -1,0 +1,9 @@
+.rodape {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.rodape p span {
+    color: #f76363;
+}
