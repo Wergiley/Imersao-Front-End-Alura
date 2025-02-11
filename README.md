@@ -5,6 +5,7 @@ O Sportify é um projeto desenvolvido durante a Imersão Front-End da Alura, com
 - HTML
 - CSS
 - JavaScript
+- <a href="https://wergiley.github.io/Imersao-Front-End-Alura/">Projeto</a>
 
 ## Estrutura do Repositório
 - `index.html` - Estrutura principal da página.
