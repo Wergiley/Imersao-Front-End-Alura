@@ -1,4 +1,5 @@
 # Sportify - Projeto da Imersão Front-End Alura
+<img src="img/capa.png">
 O Sportify é um projeto desenvolvido durante a Imersão Front-End da Alura, com o objetivo de aprimorar habilidades em HTML, CSS e JavaScript. Inspirado no design e funcionalidades de plataformas de streaming, o projeto permite a navegação e busca por artistas, proporcionando uma experiência interativa e dinâmica para o usuário.
 
 ## Tecnologias Utilizadas
