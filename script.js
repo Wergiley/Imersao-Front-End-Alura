@@ -32,11 +32,10 @@ if (container) {
   observer.observe(container);
 }
 
-//---------------------------------------------------------------------------
 // Função para carregar os dados dos artistas
 async function carregarArtistas() {
   try {
-    const response = await fetch("./artists.json"); // Caminho atualizado
+    const response = await fetch("artists.json"); // Caminho atualizado
     if (!response.ok) {
       throw new Error("Erro ao carregar os dados dos artistas.");
     }
