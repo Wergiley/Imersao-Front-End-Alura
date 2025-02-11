@@ -25,7 +25,7 @@ O Sportify é um projeto desenvolvido durante a Imersão Front-End da Alura, com
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Wergiley/api-artists.git
+   git clone https://github.com/Wergiley/Imersao-Front-End-Alura.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
